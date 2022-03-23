@@ -2,9 +2,9 @@ import random
 import math
 
 #Calcular el número
-number = math.ceil((random.random() * 1000)) + 1
+number = math.ceil((random.random() * 500)) + 1
 
-print("\nBienvenido, el sistema 'pensará' un número entre 1 y 1000 y deberás adivinarlo\n")
+print("\nBienvenido, el sistema 'pensará' un número entre 1 y 500 y deberás adivinarlo\n")
 
 #Solicitar el número
 guess = -1
