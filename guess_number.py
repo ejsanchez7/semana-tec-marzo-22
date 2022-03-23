@@ -8,7 +8,7 @@ tries = 0
 #Calcular el número
 number = math.ceil((random.random() * 1000)) + 1
 
-print("\nBienvenido, el sistema 'pensará' un número entre 1 y 1000 y deberás adivinarlo\n")
+print("\nBienvenido, el sistema 'calculará' un número entre 1 y 1000 y deberás adivinarlo\n")
 
 #Solicitar el número
 guess = -1
